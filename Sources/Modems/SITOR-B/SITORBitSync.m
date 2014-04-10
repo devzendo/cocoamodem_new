@@ -6,7 +6,7 @@
 	#include "Copyright.h"
 
 #import "SITORBitSync.h"
-#include <vecLib/vDSP.h>
+#import <Accelerate/Accelerate.h>
 #include <math.h>
 
 //  Obtain bit clock and feed the bits to the Moore decoder.

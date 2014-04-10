@@ -8,7 +8,7 @@
 
 #include "CMFFT.h"
 #include "CMDSPWindow.h"
-#include <vecLib/vDSP.h>
+#import <Accelerate/Accelerate.h>
 
 //  create a vDSP power spectrum structure 
 CMFFT *FFTSpectrum( int log2n, Boolean useWindow )

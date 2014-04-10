@@ -8,7 +8,7 @@
 
 #import "CMATC.h"
 #import "CMATCBuffer.h"
-#import <vecLib/vDSP.h>
+#import <Accelerate/Accelerate.h>
 #import <math.h>
 
 //  Multiple Automatic Threshold Correction

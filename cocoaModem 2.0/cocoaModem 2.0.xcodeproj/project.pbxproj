@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2868748218F6EC6900688888 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2868748118F6EC6900688888 /* Accelerate.framework */; };
 		84072E2809076BF9006DA88B /* Application.m in Sources */ = {isa = PBXBuildFile; fileRef = 84072E2609076BF9006DA88B /* Application.m */; };
 		84072E3609076C06006DA88B /* MacroMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 84072E2C09076C06006DA88B /* MacroMenu.m */; };
 		84072E3709076C06006DA88B /* MacroNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 84072E2E09076C06006DA88B /* MacroNode.m */; };
@@ -35,7 +36,6 @@
 		8407326E09077551006DA88B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8407326D09077551006DA88B /* main.m */; };
 		8407334B0907774F006DA88B /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8407334A0907774F006DA88B /* AudioToolbox.framework */; };
 		8407335E0907776D006DA88B /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8407335D0907776D006DA88B /* ApplicationServices.framework */; };
-		8407343109077797006DA88B /* vecLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8407343009077797006DA88B /* vecLib.framework */; };
 		84073443090777B5006DA88B /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84073442090777B5006DA88B /* CoreAudio.framework */; };
 		8410101110BC8DD600761445 /* FAXFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 8410101010BC8DD600761445 /* FAXFrame.m */; };
 		841011E010BDBDED00761445 /* ClicklessWaterfall.m in Sources */ = {isa = PBXBuildFile; fileRef = 841011DF10BDBDED00761445 /* ClicklessWaterfall.m */; };
@@ -420,6 +420,7 @@
 /* Begin PBXFileReference section */
 		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		2868748118F6EC6900688888 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		32CA4F630368D1EE00C91783 /* cocoaModem 2.0_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "cocoaModem 2.0_Prefix.pch"; sourceTree = "<group>"; };
 		84072DF509076B31006DA88B /* filtercoefs.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = filtercoefs.h; sourceTree = "<group>"; };
 		84072DF609076B31006DA88B /* modemTypes.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = modemTypes.h; sourceTree = "<group>"; };
@@ -1123,10 +1124,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2868748218F6EC6900688888 /* Accelerate.framework in Frameworks */,
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				8407334B0907774F006DA88B /* AudioToolbox.framework in Frameworks */,
 				8407335E0907776D006DA88B /* ApplicationServices.framework in Frameworks */,
-				8407343109077797006DA88B /* vecLib.framework in Frameworks */,
 				84073443090777B5006DA88B /* CoreAudio.framework in Frameworks */,
 				842BF6E20D4F299600B4923A /* AudioUnit.framework in Frameworks */,
 				848768221074104C00B83EDD /* IOKit.framework in Frameworks */,
@@ -1232,6 +1233,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2868748118F6EC6900688888 /* Accelerate.framework */,
 				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
 				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
 			);

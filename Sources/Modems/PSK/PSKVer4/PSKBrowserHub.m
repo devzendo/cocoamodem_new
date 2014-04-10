@@ -11,7 +11,7 @@
 #import "ClickedTableView.h"
 #import "PSK.h"
 #import "PSKReceiver.h"
-#include <vecLib/vDSP.h>
+#import <Accelerate/Accelerate.h>
 
 //  LitePSKDemodulator userIndex errors
 #define	FREQOUTOFRANGE		-3

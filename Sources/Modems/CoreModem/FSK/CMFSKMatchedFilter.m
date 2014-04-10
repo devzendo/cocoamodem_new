@@ -10,7 +10,7 @@
 #include "CMDSPWindow.h"
 #include "CMFIR.h"
 #include "CoreModemTypes.h"
-#include <vecLib/vDSP.h>
+#import <Accelerate/Accelerate.h>
 
 //  RTTY Matched filter takes in I and Q split complex channels of data (4 separate streams of 512 samples each)
 //  output is devimated by 8 to Fs/8

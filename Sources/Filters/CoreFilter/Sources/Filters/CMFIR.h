@@ -10,7 +10,7 @@
 	#define _CMFIR_H_
 
 	#include <Carbon/Carbon.h>
-	#include <vecLib/vDSP.h>
+	#import <Accelerate/Accelerate.h>
 
 	typedef enum {
 		kCMInterpolate,			//  output samples > input samples

@@ -9,8 +9,8 @@
 	#define _CMFFT_H_
 
 	#include <Carbon/Carbon.h>
-	#include <vecLib/vDSP.h>
-	
+    #import <Accelerate/Accelerate.h>
+
 	typedef enum {
 		Forward,
 		Inverse,
