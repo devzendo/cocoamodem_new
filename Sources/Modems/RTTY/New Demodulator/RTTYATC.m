@@ -94,7 +94,7 @@ static int transitions( CMATCPair* pair, int bitn, int bitsPerCharacter )
 		for ( k = 0; k < n; k++ ) {
 			p++ ;
 			v = p->mark - p->space ;
-			if ( u > 0 && v <= 0 || u < 0 && v >= 0 ) count++ ;
+			if ( (u > 0 && v <= 0) || (u < 0 && v >= 0) ) count++ ;
 			u = v ;
 		}
 		pair += bitn ;

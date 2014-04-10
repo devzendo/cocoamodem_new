@@ -10,7 +10,7 @@
 #import "ContestManager.h"
 #import "Contest.h"
 #import "Messages.h"
-#import "RTTYRoundupMults.h" ;
+#import "RTTYRoundupMults.h"
 #import "TextEncoding.h"
 #import "TransparentTextField.h"
 #import "UserInfo.h"

@@ -25,7 +25,7 @@
 	self = [ super initIntoTabView:tabview nib:nib manager:mgr ] ;
 	if ( self ) {
 		contestBar = nil ;
-		savedString = [ NSString stringWithString:@"" ] ;
+		savedString = @"" ;
 	}
 	return self ;
 }

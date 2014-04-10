@@ -51,7 +51,7 @@
 		high = low ;
 		low = temp ;
 	}
-	if ( low < 1.0 || low == lowCutoff && high == highCutoff ) return ;
+	if ( low < 1.0 || (low == lowCutoff && high == highCutoff) ) return ;
 	
 	oldlen = n ;
 	n = len ;

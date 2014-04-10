@@ -59,7 +59,7 @@ static OSStatus setupService( AudioUnit unit, const char *ip, int port )
 
 - (Boolean)setPassword:(NSString*)password
 {
-	NSString *name = ( password == nil ) ? [ NSString stringWithString:@"" ] : password ;
+	NSString *name = ( password == nil ) ? @"" : password ;
 	return ( AudioUnitSetProperty( netReceiveAudioUnit, kAUNetReceiveProperty_Password, kAudioUnitScope_Global, 0, &name, sizeof(CFStringRef) ) == noErr ) ;
 }
 

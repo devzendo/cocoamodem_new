@@ -16,7 +16,7 @@
 - (NSArray*)readablePasteboardTypes
 {
 	//  allow only plain text
-	return @[[ NSString stringWithString:@"NSStringPboardType" ]] ;
+	return @[@"NSStringPboardType"] ;
 }
 
 - (void)viewDidMoveToWindow

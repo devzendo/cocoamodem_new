@@ -6,8 +6,7 @@
 //
 
 #ifndef _FAX_H_
-	#define _FAXR_H_
-
+	#define _FAX_H_
 	#import <Cocoa/Cocoa.h>
 	#include "Modem.h"
 	

@@ -131,7 +131,7 @@ OSStatus netsendRenderer( void* ref, AudioUnitRenderActionFlags *ioActionFlags, 
 //  note: cannot clear password
 - (Boolean)setCurrentPassword
 {
-	NSString *name = ( password == nil ) ? [ NSString stringWithString:@"" ] : password ;
+	NSString *name = ( password == nil ) ? @"" : password ;
 	return ( AudioUnitSetProperty( netSendAudioUnit, kAUNetSendProperty_Password, kAudioUnitScope_Global, 0, &name, sizeof(CFStringRef) ) == noErr ) ;
 }
 
@@ -283,14 +283,14 @@ OSStatus netsendRenderer( void* ref, AudioUnitRenderActionFlags *ioActionFlags, 
 - (void)stopSampling
 {
 	//  the tick: timer routine will catch this flag and stop the timer.
-	netAudioStruct.runState == kNetAudioStopped ;
+	netAudioStruct.runState = kNetAudioStopped ;
 }
 
 - (id)initWithService:(NSString*)service delegate:(id)inDelegate samplesPerBuffer:(int)size
 {
 	self = [ super init ] ;
 	if ( self ) {
-		netAudioStruct.runState == kNetAudioIdle ;
+		netAudioStruct.runState = kNetAudioIdle ;
 		if ( [ self setupWithService:service delegate:inDelegate samplesPerBuffer:size ] == NO ) return nil ;
 	}
 	return self ;
@@ -300,7 +300,7 @@ OSStatus netsendRenderer( void* ref, AudioUnitRenderActionFlags *ioActionFlags, 
 {
 	self = [ super init ] ;
 	if ( self ) {
-		netAudioStruct.runState == kNetAudioIdle ;
+		netAudioStruct.runState = kNetAudioIdle ;
 		if ( [ self setupWithService:@"AUNetSend" delegate:nil samplesPerBuffer:512 ] == NO ) return nil ;
 	}
 	return self ;
