@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>cocoaModem.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>w7ay.cocoaModem-2.0</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>

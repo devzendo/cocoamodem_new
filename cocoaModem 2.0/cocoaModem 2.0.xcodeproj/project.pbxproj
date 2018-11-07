@@ -420,6 +420,55 @@
 /* Begin PBXFileReference section */
 		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		2849A2AF2193537C00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/About.nib; sourceTree = "<group>"; };
+		2849A2B02193537D00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Analyze.nib; sourceTree = "<group>"; };
+		2849A2B12193537D00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ASCII.nib; sourceTree = "<group>"; };
+		2849A2B22193537D00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = English.lproj/Nibs/Base.lproj/AuralMonitor.nib; sourceTree = "<group>"; };
+		2849A2B32193537D00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Cabrillo.nib; sourceTree = "<group>"; };
+		2849A2B42193537E00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Config.nib; sourceTree = "<group>"; };
+		2849A2B52193537E00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/BARTG.nib; sourceTree = "<group>"; };
+		2849A2B62193537E00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Generic.nib; sourceTree = "<group>"; };
+		2849A2B72193537E00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/NumberOnly.nib; sourceTree = "<group>"; };
+		2849A2B82193537F00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/RSTExchange.nib; sourceTree = "<group>"; };
+		2849A2B92193537F00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/RTTYRoundupMults.nib; sourceTree = "<group>"; };
+		2849A2BA2193537F00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ContestBar.nib; sourceTree = "<group>"; };
+		2849A2BB2193537F00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ContestLog.nib; sourceTree = "<group>"; };
+		2849A2BC2193538000A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ContestMacroSheet.nib; sourceTree = "<group>"; };
+		2849A2BD2193538000A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/CWRxControl.nib; sourceTree = "<group>"; };
+		2849A2BE2193538000A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/DualRTTY.nib; sourceTree = "<group>"; };
+		2849A2BF2193538000A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Hellschreiber.nib; sourceTree = "<group>"; };
+		2849A2C02193538000A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = "Base.lproj/HF-FAX.nib"; sourceTree = "<group>"; };
+		2849A2C12193538100A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/LiteASCII.nib; sourceTree = "<group>"; };
+		2849A2C22193538100A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/LiteASCIIControl.nib; sourceTree = "<group>"; };
+		2849A2C32193538100A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/LitePSK.nib; sourceTree = "<group>"; };
+		2849A2C42193538100A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/LiteRTTY.nib; sourceTree = "<group>"; };
+		2849A2C52193538100A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/LiteRTTYControl.nib; sourceTree = "<group>"; };
+		2849A2C62193538200A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/MacroSheet.nib; sourceTree = "<group>"; };
+		2849A2C72193538200A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		2849A2C82193538300A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/MFSK.nib; sourceTree = "<group>"; };
+		2849A2C92193538300A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ModemDest.nib; sourceTree = "<group>"; };
+		2849A2CA2193538300A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ModemEqualizer.nib; sourceTree = "<group>"; };
+		2849A2CB2193538300A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ModemLog.nib; sourceTree = "<group>"; };
+		2849A2CC2193538400A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/ModemSource.nib; sourceTree = "<group>"; };
+		2849A2CD2193538400A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Monitor.nib; sourceTree = "<group>"; };
+		2849A2CE2193538500A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSK.nib; sourceTree = "<group>"; };
+		2849A2CF2193538500A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSKAlarms.nib; sourceTree = "<group>"; };
+		2849A2D02193538500A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSKContestTxControl.nib; sourceTree = "<group>"; };
+		2849A2D12193538600A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSKControl.nib; sourceTree = "<group>"; };
+		2849A2D22193538700A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSKReceiver.nib; sourceTree = "<group>"; };
+		2849A2D32193538700A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/PSKTransmitControl.nib; sourceTree = "<group>"; };
+		2849A2D42193538800A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/QSO.nib; sourceTree = "<group>"; };
+		2849A2D52193538800A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/RTTY.nib; sourceTree = "<group>"; };
+		2849A2D62193538900A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/RTTYRxControl.nib; sourceTree = "<group>"; };
+		2849A2D72193538900A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/SimpleModemDest.nib; sourceTree = "<group>"; };
+		2849A2D82193538900A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/SITOR.nib; sourceTree = "<group>"; };
+		2849A2D92193538A00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/SITORRxControl.nib; sourceTree = "<group>"; };
+		2849A2DA2193538A00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/SoftRock.nib; sourceTree = "<group>"; };
+		2849A2DB2193538B00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/Splash.nib; sourceTree = "<group>"; };
+		2849A2DC2193538B00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/SynchAM.nib; sourceTree = "<group>"; };
+		2849A2DD2193538B00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/UserInfo.nib; sourceTree = "<group>"; };
+		2849A2DE2193538C00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/WBCW.nib; sourceTree = "<group>"; };
+		2849A2DF2193538C00A2BB0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Base; path = Base.lproj/WFRTTY.nib; sourceTree = "<group>"; };
 		2868748118F6EC6900688888 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		32CA4F630368D1EE00C91783 /* cocoaModem 2.0_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "cocoaModem 2.0_Prefix.pch"; sourceTree = "<group>"; };
 		84072DF509076B31006DA88B /* filtercoefs.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = filtercoefs.h; sourceTree = "<group>"; };
@@ -470,43 +519,17 @@
 		84072FDD09076F2D006DA88B /* XE RTTY.xml */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.xml; path = "XE RTTY.xml"; sourceTree = "<group>"; };
 		84072FE809076F5F006DA88B /* Versions */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text; path = Versions; sourceTree = "<group>"; };
 		84072FEA09076F72006DA88B /* cocoaModem.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = cocoaModem.icns; path = icon/cocoaModem.icns; sourceTree = "<group>"; };
-		84072FF209077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/About.nib; sourceTree = "<group>"; };
-		84072FF309077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Analyze.nib; sourceTree = "<group>"; };
-		84072FF409077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Cabrillo.nib; sourceTree = "<group>"; };
-		84072FF509077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Config.nib; sourceTree = "<group>"; };
-		84072FF709077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Generic.nib; sourceTree = "<group>"; };
-		84072FF809077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/NumberOnly.nib; sourceTree = "<group>"; };
-		84072FF909077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/RSTExchange.nib; sourceTree = "<group>"; };
-		84072FFA09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ContestBar.nib; sourceTree = "<group>"; };
-		84072FFC09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ContestMacroSheet.nib; sourceTree = "<group>"; };
-		84072FFD09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/DualRTTY.nib; sourceTree = "<group>"; };
-		84072FFE09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Hellschreiber.nib; sourceTree = "<group>"; };
-		84072FFF09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MacroSheet.nib; sourceTree = "<group>"; };
-		8407300009077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
-		8407300409077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ModemDest.nib; sourceTree = "<group>"; };
-		8407300509077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ModemLog.nib; sourceTree = "<group>"; };
-		8407300609077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ModemSource.nib; sourceTree = "<group>"; };
-		8407300709077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Monitor.nib; sourceTree = "<group>"; };
-		8407300809077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSK.nib; sourceTree = "<group>"; };
-		8407300909077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSKContestTxControl.nib; sourceTree = "<group>"; };
-		8407300A09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSKControl.nib; sourceTree = "<group>"; };
-		8407300C09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSKTransmitControl.nib; sourceTree = "<group>"; };
-		8407300D09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/QSO.nib; sourceTree = "<group>"; };
-		8407300F09077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/RTTYRxControl.nib; sourceTree = "<group>"; };
-		8407301009077011006DA88B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/UserInfo.nib; sourceTree = "<group>"; };
 		8407326D09077551006DA88B /* main.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8407334A0907774F006DA88B /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = /System/Library/Frameworks/AudioToolbox.framework; sourceTree = "<absolute>"; };
 		8407335D0907776D006DA88B /* ApplicationServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ApplicationServices.framework; path = /System/Library/Frameworks/ApplicationServices.framework; sourceTree = "<absolute>"; };
 		8407343009077797006DA88B /* vecLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = vecLib.framework; path = /System/Library/Frameworks/vecLib.framework; sourceTree = "<absolute>"; };
 		84073442090777B5006DA88B /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = /System/Library/Frameworks/CoreAudio.framework; sourceTree = "<absolute>"; };
 		840DFDEE119001200061DF35 /* FSKMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSKMenu.h; sourceTree = "<group>"; };
-		840EC5F00976446D00BCEEE3 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/WFRTTY.nib; sourceTree = "<group>"; };
 		8410100F10BC8DD600761445 /* FAXFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FAXFrame.h; sourceTree = "<group>"; };
 		8410101010BC8DD600761445 /* FAXFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FAXFrame.m; sourceTree = "<group>"; };
 		841011DE10BDBDED00761445 /* ClicklessWaterfall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClicklessWaterfall.h; sourceTree = "<group>"; };
 		841011DF10BDBDED00761445 /* ClicklessWaterfall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClicklessWaterfall.m; sourceTree = "<group>"; };
 		8416C8CF0A51B97A00526F21 /* routerCloseScript.scpt */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.scpt; path = routerCloseScript.scpt; sourceTree = "<group>"; };
-		84220354096100F1007AFA0B /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/RTTYRoundupMults.nib; sourceTree = "<group>"; };
 		8422FF2F09606D18007AFA0B /* UTC.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = UTC.h; sourceTree = "<group>"; };
 		8422FF3009606D18007AFA0B /* UTC.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = UTC.m; sourceTree = "<group>"; };
 		84261C360F22FDFA00E9E515 /* cocoaModem 2.0.sdef */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.sdef; path = "cocoaModem 2.0.sdef"; sourceTree = "<group>"; };
@@ -515,15 +538,12 @@
 		842DBF2F109FAF1C0039D90E /* AuralMonitor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuralMonitor.m; sourceTree = "<group>"; };
 		842DBF8410A002FA0039D90E /* PushedStereoDest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PushedStereoDest.h; sourceTree = "<group>"; };
 		842DBF8510A002FA0039D90E /* PushedStereoDest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PushedStereoDest.m; sourceTree = "<group>"; };
-		842E9F29108C176B0016C292 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Nibs/English.lproj/AuralMonitor.nib; sourceTree = "<group>"; };
 		842E9F87108D15990016C292 /* ModemAudio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModemAudio.h; sourceTree = "<group>"; };
 		842E9F88108D15990016C292 /* ModemAudio.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModemAudio.m; sourceTree = "<group>"; };
 		842E9FB1108D58500016C292 /* Audio */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Audio; sourceTree = "<group>"; };
 		843690BC127D1C3B00C12271 /* routerVersion.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.scpt; path = routerVersion.scpt; sourceTree = "<group>"; };
 		843769A110AD3C6B0000F62D /* ModemAuralMonitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModemAuralMonitor.h; sourceTree = "<group>"; };
 		843769A210AD3C6B0000F62D /* ModemAuralMonitor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModemAuralMonitor.m; sourceTree = "<group>"; };
-		843872C60AA3ED71007AD6BF /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SoftRock.nib; sourceTree = "<group>"; };
-		8439648409BD667D00866AE7 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = "English.lproj/HF-FAX.nib"; sourceTree = "<group>"; };
 		84486E5414E4F62400DA126E /* Speech.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Speech.h; sourceTree = "<group>"; };
 		84486E5514E4F62400DA126E /* Speech.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Speech.m; sourceTree = "<group>"; };
 		8452B40C09DE1B4C0050F52E /* SP RTTY.xml */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.xml; path = "SP RTTY.xml"; sourceTree = "<group>"; };
@@ -532,19 +552,15 @@
 		8464303C1116355100D686D2 /* LiteASCII.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LiteASCII.m; sourceTree = "<group>"; };
 		846430451116370200D686D2 /* LiteASCIIControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LiteASCIIControl.h; sourceTree = "<group>"; };
 		846430461116370200D686D2 /* LiteASCIIControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LiteASCIIControl.m; sourceTree = "<group>"; };
-		8464305E111637E700D686D2 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LiteASCII.nib; sourceTree = "<group>"; };
-		84643060111637E700D686D2 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LiteASCIIControl.nib; sourceTree = "<group>"; };
 		84670C1A109129EC00B2DF8C /* ResamplingPipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResamplingPipe.h; sourceTree = "<group>"; };
 		84670C1B109129EC00B2DF8C /* ResamplingPipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResamplingPipe.m; sourceTree = "<group>"; };
 		8467342C09E37B1200F90063 /* mldxKey.scpt */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.scpt; path = mldxKey.scpt; sourceTree = "<group>"; };
 		8467342D09E37B1200F90063 /* mldxUnkey.scpt */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.scpt; path = mldxUnkey.scpt; sourceTree = "<group>"; };
 		846734A209E464A900F90063 /* cm bitmapdoublewide.font */ = {isa = PBXFileReference; lastKnownFileType = file; path = "cm bitmapdoublewide.font"; sourceTree = "<group>"; };
-		846CE47E09A45AF800F5D214 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MFSK.nib; sourceTree = "<group>"; };
 		8475211C1538B7480070D295 /* VoiceAssistTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VoiceAssistTextField.h; sourceTree = "<group>"; };
 		8475211D1538B7480070D295 /* VoiceAssistTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VoiceAssistTextField.m; sourceTree = "<group>"; };
 		8477C13211126109004AC82F /* ASCII.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASCII.h; sourceTree = "<group>"; };
 		8477C13311126109004AC82F /* ASCII.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCII.m; sourceTree = "<group>"; };
-		8477C14D111264EF004AC82F /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ASCII.nib; sourceTree = "<group>"; };
 		8477C1C71112B101004AC82F /* ASCIIReceiver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASCIIReceiver.h; sourceTree = "<group>"; };
 		8477C1C81112B101004AC82F /* ASCIIReceiver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCIIReceiver.m; sourceTree = "<group>"; };
 		8477C1FB1112D567004AC82F /* ASCIIDemodulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASCIIDemodulator.h; sourceTree = "<group>"; };
@@ -555,8 +571,6 @@
 		8477C25D1112DCCE004AC82F /* ASCIIATC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCIIATC.m; sourceTree = "<group>"; };
 		8481CD0E095C8B15008EA65A /* RTTYWaterfall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RTTYWaterfall.h; sourceTree = "<group>"; };
 		8481CD0F095C8B15008EA65A /* RTTYWaterfall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RTTYWaterfall.m; sourceTree = "<group>"; };
-		8486AA160EC956D500840E69 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSKReceiver.nib; sourceTree = "<group>"; };
-		8486AA1F0EC957FD00840E69 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/PSKAlarms.nib; sourceTree = "<group>"; };
 		848765B81074078700B83EDD /* memory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = memory.h; sourceTree = "<group>"; };
 		848765B91074078700B83EDD /* memory.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = memory.c; sourceTree = "<group>"; };
 		848768211074104C00B83EDD /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
@@ -965,7 +979,6 @@
 		849C0A4510F93A5B00F342E7 /* mldx5Key.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.scpt; path = mldx5Key.scpt; sourceTree = "<group>"; };
 		849C0A4610F93A5B00F342E7 /* mldx5Unkey.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.scpt; path = mldx5Unkey.scpt; sourceTree = "<group>"; };
 		849C0A4710F93A6200F342E7 /* mldxVersion.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.scpt; path = mldxVersion.scpt; sourceTree = "<group>"; };
-		84A851E50B1E1898003A69CF /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ModemEqualizer.nib; sourceTree = "<group>"; };
 		84A854B80B1F67E6003A69CF /* ModemEqualizerPlot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModemEqualizerPlot.h; sourceTree = "<group>"; };
 		84A854B90B1F67E6003A69CF /* ModemEqualizerPlot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModemEqualizerPlot.m; sourceTree = "<group>"; };
 		84AB924F10A7549600A26242 /* AMConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMConfig.m; sourceTree = "<group>"; };
@@ -978,7 +991,6 @@
 		84B4048F109A70BB0082E332 /* AudioInterfaceTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioInterfaceTypes.h; sourceTree = "<group>"; };
 		84B40492109A70FD0082E332 /* audioutils.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = audioutils.c; sourceTree = "<group>"; };
 		84B40493109A70FD0082E332 /* audioutils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioutils.h; sourceTree = "<group>"; };
-		84B43C090F39324000E399D7 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/ContestLog.nib; sourceTree = "<group>"; };
 		84BD2CC70FF7537200AD2324 /* MFSKWaterfall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFSKWaterfall.h; sourceTree = "<group>"; };
 		84BD2CC80FF7537200AD2324 /* MFSKWaterfall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFSKWaterfall.m; sourceTree = "<group>"; };
 		84BE1CDA1079B9540026FD70 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -987,7 +999,6 @@
 		84C02E0C11142BAB00DB8AA4 /* ASCIITxConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCIITxConfig.m; sourceTree = "<group>"; };
 		84C02E1111142FBD00DB8AA4 /* ASCIIModulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASCIIModulator.h; sourceTree = "<group>"; };
 		84C02E1211142FBD00DB8AA4 /* ASCIIModulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASCIIModulator.m; sourceTree = "<group>"; };
-		84CD57ED09A0603800E8011A /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/BARTG.nib; sourceTree = "<group>"; };
 		84CD57FA09A066AF00E8011A /* BARTG HF.xml */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.xml; path = "BARTG HF.xml"; sourceTree = "<group>"; };
 		84CE741610AAF515003D0C99 /* CMFSKDemodulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CMFSKDemodulator.h; sourceTree = "<group>"; };
 		84CE741710AAF515003D0C99 /* CMFSKDemodulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CMFSKDemodulator.m; sourceTree = "<group>"; };
@@ -1067,28 +1078,17 @@
 		84DA524D09F6B059007B3C78 /* Config.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = Config.m; sourceTree = "<group>"; };
 		84DA524E09F6B059007B3C78 /* Preferences.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = Preferences.h; sourceTree = "<group>"; };
 		84DA524F09F6B059007B3C78 /* Preferences.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = Preferences.m; sourceTree = "<group>"; };
-		84DB077A09650CD2008DBF15 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/RTTY.nib; sourceTree = "<group>"; };
 		84E368980CDD5062003D1849 /* TextEncoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextEncoding.h; sourceTree = "<group>"; };
-		84E4DF6B0997D3800064B8F4 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SITOR.nib; sourceTree = "<group>"; };
-		84E4E01D0997EA7A0064B8F4 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SITORRxControl.nib; sourceTree = "<group>"; };
 		84E5D84B0CDF907E00A0767A /* splashPanel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = splashPanel.h; sourceTree = "<group>"; };
 		84E5D84C0CDF907E00A0767A /* splashPanel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = splashPanel.m; sourceTree = "<group>"; };
 		84E6E7F60A1254BF00643B06 /* SleepManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SleepManager.h; sourceTree = "<group>"; };
 		84E6E7F70A1254BF00643B06 /* SleepManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SleepManager.m; sourceTree = "<group>"; };
 		84E6E8E90A125C3300643B06 /* ModemSleepManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModemSleepManager.h; sourceTree = "<group>"; };
 		84E6E8EA0A125C3300643B06 /* ModemSleepManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModemSleepManager.m; sourceTree = "<group>"; };
-		84E6E90D0B5F3FBE0051ADDD /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SynchAM.nib; sourceTree = "<group>"; };
 		84E6E9F10B5F6BE40051ADDD /* AMWaterfall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AMWaterfall.h; sourceTree = "<group>"; };
 		84E6E9F20B5F6BE40051ADDD /* AMWaterfall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMWaterfall.m; sourceTree = "<group>"; };
-		84E86D630CDFA8ED00691926 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Splash.nib; sourceTree = "<group>"; };
-		84E899A60CDBFEA200E7E22A /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LiteRTTY.nib; sourceTree = "<group>"; };
-		84E89ADC0CDC339000E7E22A /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LiteRTTYControl.nib; sourceTree = "<group>"; };
-		84E89BC40CDC4EE900E7E22A /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LitePSK.nib; sourceTree = "<group>"; };
-		84EB987F0B20FF8600434940 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/WBCW.nib; sourceTree = "<group>"; };
 		84EB98F20B21269400434940 /* CWWaterfall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWWaterfall.h; sourceTree = "<group>"; };
 		84EB98F30B21269400434940 /* CWWaterfall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWWaterfall.m; sourceTree = "<group>"; };
-		84EB9B0C0B2167A000434940 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SimpleModemDest.nib; sourceTree = "<group>"; };
-		84EBADDB0B279A6200434940 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/CWRxControl.nib; sourceTree = "<group>"; };
 		84F77F0C12E4A3AB00852473 /* CocoaPTTInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocoaPTTInterface.h; sourceTree = "<group>"; };
 		84F77F0D12E4A3AB00852473 /* CocoaPTTInterface.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CocoaPTTInterface.m; sourceTree = "<group>"; };
 		84F77F0E12E4A3AB00852473 /* DigitalInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DigitalInterface.h; sourceTree = "<group>"; };
@@ -2458,7 +2458,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 1010;
 			};
 			buildConfigurationList = 84072DCC0907675F006DA88B /* Build configuration list for PBXProject "cocoaModem 2.0" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -2469,7 +2469,7 @@
 				Japanese,
 				French,
 				German,
-				"/Users/kchen/Local/Projects/cocoaModem/cocoaModem/cocoaModem 2.0/Japanese.lproj/CWRxControl.nib",
+				Base,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* cocoaModem 2.0 */;
 			projectDirPath = "";
@@ -2850,7 +2850,7 @@
 		842E9F28108C176B0016C292 /* AuralMonitor.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				842E9F29108C176B0016C292 /* English */,
+				2849A2B22193537D00A2BB0B /* Base */,
 			);
 			name = AuralMonitor.nib;
 			path = ../..;
@@ -2859,7 +2859,7 @@
 		8464305D111637E700D686D2 /* LiteASCII.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8464305E111637E700D686D2 /* English */,
+				2849A2C12193538100A2BB0B /* Base */,
 			);
 			name = LiteASCII.nib;
 			sourceTree = "<group>";
@@ -2867,7 +2867,7 @@
 		8464305F111637E700D686D2 /* LiteASCIIControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84643060111637E700D686D2 /* English */,
+				2849A2C22193538100A2BB0B /* Base */,
 			);
 			name = LiteASCIIControl.nib;
 			sourceTree = "<group>";
@@ -2875,7 +2875,7 @@
 		8477C14C111264EF004AC82F /* ASCII.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8477C14D111264EF004AC82F /* English */,
+				2849A2B12193537D00A2BB0B /* Base */,
 			);
 			name = ASCII.nib;
 			sourceTree = "<group>";
@@ -2883,8 +2883,8 @@
 		84D649620FC38C470042FCE2 /* About.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF209077011006DA88B /* English */,
 				84D649780FC38E690042FCE2 /* Japanese */,
+				2849A2AF2193537C00A2BB0B /* Base */,
 			);
 			name = About.nib;
 			sourceTree = "<group>";
@@ -2892,8 +2892,8 @@
 		84D6497C0FC38E930042FCE2 /* Analyze.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF309077011006DA88B /* English */,
 				84D6497E0FC38EA40042FCE2 /* Japanese */,
+				2849A2B02193537D00A2BB0B /* Base */,
 			);
 			name = Analyze.nib;
 			sourceTree = "<group>";
@@ -2901,8 +2901,8 @@
 		84D6497F0FC38EB00042FCE2 /* Cabrillo.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF409077011006DA88B /* English */,
 				84D649810FC38EBF0042FCE2 /* Japanese */,
+				2849A2B32193537D00A2BB0B /* Base */,
 			);
 			name = Cabrillo.nib;
 			sourceTree = "<group>";
@@ -2910,8 +2910,8 @@
 		84D649820FC38ED20042FCE2 /* Config.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF509077011006DA88B /* English */,
 				84D649840FC38EDF0042FCE2 /* Japanese */,
+				2849A2B42193537E00A2BB0B /* Base */,
 			);
 			name = Config.nib;
 			sourceTree = "<group>";
@@ -2919,8 +2919,8 @@
 		84D649850FC38EF30042FCE2 /* BARTG.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84CD57ED09A0603800E8011A /* English */,
 				84D649870FC38F000042FCE2 /* Japanese */,
+				2849A2B52193537E00A2BB0B /* Base */,
 			);
 			name = BARTG.nib;
 			sourceTree = "<group>";
@@ -2928,8 +2928,8 @@
 		84D649880FC38F0D0042FCE2 /* ContestBar.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FFA09077011006DA88B /* English */,
 				84D6498A0FC38F170042FCE2 /* Japanese */,
+				2849A2BA2193537F00A2BB0B /* Base */,
 			);
 			name = ContestBar.nib;
 			sourceTree = "<group>";
@@ -2937,8 +2937,8 @@
 		84D6498E0FC38F3C0042FCE2 /* ContestLog.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84B43C090F39324000E399D7 /* English */,
 				84D649900FC38F4A0042FCE2 /* Japanese */,
+				2849A2BB2193537F00A2BB0B /* Base */,
 			);
 			name = ContestLog.nib;
 			sourceTree = "<group>";
@@ -2946,8 +2946,8 @@
 		84D649910FC38F540042FCE2 /* ContestMacroSheet.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FFC09077011006DA88B /* English */,
 				84D649930FC38F610042FCE2 /* Japanese */,
+				2849A2BC2193538000A2BB0B /* Base */,
 			);
 			name = ContestMacroSheet.nib;
 			sourceTree = "<group>";
@@ -2955,8 +2955,8 @@
 		84D649940FC38F6C0042FCE2 /* CWRxControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84EBADDB0B279A6200434940 /* English */,
 				84D649970FC38FAC0042FCE2 /* Japanese */,
+				2849A2BD2193538000A2BB0B /* Base */,
 			);
 			name = CWRxControl.nib;
 			sourceTree = "<group>";
@@ -2964,8 +2964,8 @@
 		84D649980FC38FBE0042FCE2 /* DualRTTY.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FFD09077011006DA88B /* English */,
 				84D649A70FC390990042FCE2 /* Japanese */,
+				2849A2BE2193538000A2BB0B /* Base */,
 			);
 			name = DualRTTY.nib;
 			sourceTree = "<group>";
@@ -2973,8 +2973,8 @@
 		84D649A90FC390B20042FCE2 /* Hellschreiber.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FFE09077011006DA88B /* English */,
 				84D649B00FC391990042FCE2 /* Japanese */,
+				2849A2BF2193538000A2BB0B /* Base */,
 			);
 			name = Hellschreiber.nib;
 			sourceTree = "<group>";
@@ -2982,8 +2982,8 @@
 		84D649AD0FC391680042FCE2 /* Generic.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF709077011006DA88B /* English */,
 				84D649AF0FC391800042FCE2 /* Japanese */,
+				2849A2B62193537E00A2BB0B /* Base */,
 			);
 			name = Generic.nib;
 			sourceTree = "<group>";
@@ -2991,8 +2991,8 @@
 		84D649B20FC391AE0042FCE2 /* HF-FAX.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8439648409BD667D00866AE7 /* English */,
 				84D649B40FC391B80042FCE2 /* Japanese */,
+				2849A2C02193538000A2BB0B /* Base */,
 			);
 			name = "HF-FAX.nib";
 			sourceTree = "<group>";
@@ -3000,8 +3000,8 @@
 		84D649B60FC391E30042FCE2 /* LitePSK.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E89BC40CDC4EE900E7E22A /* English */,
 				84D649B80FC391F00042FCE2 /* Japanese */,
+				2849A2C32193538100A2BB0B /* Base */,
 			);
 			name = LitePSK.nib;
 			sourceTree = "<group>";
@@ -3009,8 +3009,8 @@
 		84D649B90FC391F80042FCE2 /* LiteRTTY.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E899A60CDBFEA200E7E22A /* English */,
 				84D649BB0FC392040042FCE2 /* Japanese */,
+				2849A2C42193538100A2BB0B /* Base */,
 			);
 			name = LiteRTTY.nib;
 			sourceTree = "<group>";
@@ -3018,8 +3018,8 @@
 		84D649BC0FC392150042FCE2 /* LiteRTTYControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E89ADC0CDC339000E7E22A /* English */,
 				84D649C40FC392350042FCE2 /* Japanese */,
+				2849A2C52193538100A2BB0B /* Base */,
 			);
 			name = LiteRTTYControl.nib;
 			sourceTree = "<group>";
@@ -3027,8 +3027,8 @@
 		84D649BE0FC392150042FCE2 /* MacroSheet.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FFF09077011006DA88B /* English */,
 				84D649C50FC392350042FCE2 /* Japanese */,
+				2849A2C62193538200A2BB0B /* Base */,
 			);
 			name = MacroSheet.nib;
 			sourceTree = "<group>";
@@ -3036,8 +3036,8 @@
 		84D649C00FC392150042FCE2 /* MainMenu.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300009077011006DA88B /* English */,
 				84D649C60FC392350042FCE2 /* Japanese */,
+				2849A2C72193538200A2BB0B /* Base */,
 			);
 			name = MainMenu.nib;
 			sourceTree = "<group>";
@@ -3045,8 +3045,8 @@
 		84D649C20FC392150042FCE2 /* MFSK.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				846CE47E09A45AF800F5D214 /* English */,
 				84D649C90FC392350042FCE2 /* Japanese */,
+				2849A2C82193538300A2BB0B /* Base */,
 			);
 			name = MFSK.nib;
 			sourceTree = "<group>";
@@ -3054,8 +3054,8 @@
 		84D649CD0FC392990042FCE2 /* ModemDest.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300409077011006DA88B /* English */,
 				84D649FB0FC392BF0042FCE2 /* Japanese */,
+				2849A2C92193538300A2BB0B /* Base */,
 			);
 			name = ModemDest.nib;
 			sourceTree = "<group>";
@@ -3063,8 +3063,8 @@
 		84D649CF0FC392990042FCE2 /* SimpleModemDest.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84EB9B0C0B2167A000434940 /* English */,
 				84D64A170FC393B80042FCE2 /* Japanese */,
+				2849A2D72193538900A2BB0B /* Base */,
 			);
 			name = SimpleModemDest.nib;
 			sourceTree = "<group>";
@@ -3072,8 +3072,8 @@
 		84D649D10FC392990042FCE2 /* ModemEqualizer.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84A851E50B1E1898003A69CF /* English */,
 				84D649FC0FC392BF0042FCE2 /* Japanese */,
+				2849A2CA2193538300A2BB0B /* Base */,
 			);
 			name = ModemEqualizer.nib;
 			sourceTree = "<group>";
@@ -3081,8 +3081,8 @@
 		84D649D30FC392990042FCE2 /* ModemLog.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300509077011006DA88B /* English */,
 				84D649FD0FC392BF0042FCE2 /* Japanese */,
+				2849A2CB2193538300A2BB0B /* Base */,
 			);
 			name = ModemLog.nib;
 			sourceTree = "<group>";
@@ -3090,8 +3090,8 @@
 		84D649D50FC392990042FCE2 /* ModemSource.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300609077011006DA88B /* English */,
 				84D649FE0FC392BF0042FCE2 /* Japanese */,
+				2849A2CC2193538400A2BB0B /* Base */,
 			);
 			name = ModemSource.nib;
 			sourceTree = "<group>";
@@ -3099,8 +3099,8 @@
 		84D649D70FC392990042FCE2 /* Monitor.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300709077011006DA88B /* English */,
 				84D649FF0FC392BF0042FCE2 /* Japanese */,
+				2849A2CD2193538400A2BB0B /* Base */,
 			);
 			name = Monitor.nib;
 			sourceTree = "<group>";
@@ -3108,8 +3108,8 @@
 		84D649D90FC392990042FCE2 /* PSK.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300809077011006DA88B /* English */,
 				84D64A070FC392FF0042FCE2 /* Japanese */,
+				2849A2CE2193538500A2BB0B /* Base */,
 			);
 			name = PSK.nib;
 			sourceTree = "<group>";
@@ -3117,8 +3117,8 @@
 		84D649DB0FC392990042FCE2 /* PSKAlarms.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8486AA1F0EC957FD00840E69 /* English */,
 				84D64A080FC392FF0042FCE2 /* Japanese */,
+				2849A2CF2193538500A2BB0B /* Base */,
 			);
 			name = PSKAlarms.nib;
 			sourceTree = "<group>";
@@ -3126,8 +3126,8 @@
 		84D649DD0FC392990042FCE2 /* PSKContestTxControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300909077011006DA88B /* English */,
 				84D64A090FC392FF0042FCE2 /* Japanese */,
+				2849A2D02193538500A2BB0B /* Base */,
 			);
 			name = PSKContestTxControl.nib;
 			sourceTree = "<group>";
@@ -3135,8 +3135,8 @@
 		84D649DF0FC392990042FCE2 /* PSKControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300A09077011006DA88B /* English */,
 				84D64A0A0FC392FF0042FCE2 /* Japanese */,
+				2849A2D12193538600A2BB0B /* Base */,
 			);
 			name = PSKControl.nib;
 			sourceTree = "<group>";
@@ -3144,8 +3144,8 @@
 		84D649E10FC392990042FCE2 /* PSKReceiver.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8486AA160EC956D500840E69 /* English */,
 				84D64A0B0FC392FF0042FCE2 /* Japanese */,
+				2849A2D22193538700A2BB0B /* Base */,
 			);
 			name = PSKReceiver.nib;
 			sourceTree = "<group>";
@@ -3153,8 +3153,8 @@
 		84D649E30FC392990042FCE2 /* PSKTransmitControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300C09077011006DA88B /* English */,
 				84D64A0C0FC392FF0042FCE2 /* Japanese */,
+				2849A2D32193538700A2BB0B /* Base */,
 			);
 			name = PSKTransmitControl.nib;
 			sourceTree = "<group>";
@@ -3162,8 +3162,8 @@
 		84D649E50FC392990042FCE2 /* QSO.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300D09077011006DA88B /* English */,
 				84D64A0D0FC393000042FCE2 /* Japanese */,
+				2849A2D42193538800A2BB0B /* Base */,
 			);
 			name = QSO.nib;
 			sourceTree = "<group>";
@@ -3171,8 +3171,8 @@
 		84D649E70FC392990042FCE2 /* RTTY.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84DB077A09650CD2008DBF15 /* English */,
 				84D64A100FC393340042FCE2 /* Japanese */,
+				2849A2D52193538800A2BB0B /* Base */,
 			);
 			name = RTTY.nib;
 			sourceTree = "<group>";
@@ -3180,8 +3180,8 @@
 		84D649E90FC392990042FCE2 /* RTTYRxControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407300F09077011006DA88B /* English */,
 				84D64A200FC393B80042FCE2 /* Japanese */,
+				2849A2D62193538900A2BB0B /* Base */,
 			);
 			name = RTTYRxControl.nib;
 			sourceTree = "<group>";
@@ -3189,8 +3189,8 @@
 		84D649EB0FC392990042FCE2 /* SITOR.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E4DF6B0997D3800064B8F4 /* English */,
 				84D64A180FC393B80042FCE2 /* Japanese */,
+				2849A2D82193538900A2BB0B /* Base */,
 			);
 			name = SITOR.nib;
 			sourceTree = "<group>";
@@ -3198,8 +3198,8 @@
 		84D649ED0FC392990042FCE2 /* SITORRxControl.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E4E01D0997EA7A0064B8F4 /* English */,
 				84D64A190FC393B80042FCE2 /* Japanese */,
+				2849A2D92193538A00A2BB0B /* Base */,
 			);
 			name = SITORRxControl.nib;
 			sourceTree = "<group>";
@@ -3207,8 +3207,8 @@
 		84D649EF0FC392990042FCE2 /* SoftRock.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				843872C60AA3ED71007AD6BF /* English */,
 				84D64A1A0FC393B80042FCE2 /* Japanese */,
+				2849A2DA2193538A00A2BB0B /* Base */,
 			);
 			name = SoftRock.nib;
 			sourceTree = "<group>";
@@ -3216,8 +3216,8 @@
 		84D649F10FC3929A0042FCE2 /* SynchAM.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E6E90D0B5F3FBE0051ADDD /* English */,
 				84D64A1C0FC393B80042FCE2 /* Japanese */,
+				2849A2DC2193538B00A2BB0B /* Base */,
 			);
 			name = SynchAM.nib;
 			sourceTree = "<group>";
@@ -3225,8 +3225,8 @@
 		84D649F30FC3929A0042FCE2 /* UserInfo.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8407301009077011006DA88B /* English */,
 				84D64A1D0FC393B80042FCE2 /* Japanese */,
+				2849A2DD2193538B00A2BB0B /* Base */,
 			);
 			name = UserInfo.nib;
 			sourceTree = "<group>";
@@ -3234,8 +3234,8 @@
 		84D649F50FC3929A0042FCE2 /* WBCW.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84EB987F0B20FF8600434940 /* English */,
 				84D64A1E0FC393B80042FCE2 /* Japanese */,
+				2849A2DE2193538C00A2BB0B /* Base */,
 			);
 			name = WBCW.nib;
 			sourceTree = "<group>";
@@ -3243,8 +3243,8 @@
 		84D649F70FC3929A0042FCE2 /* WFRTTY.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				840EC5F00976446D00BCEEE3 /* English */,
 				84D64A1F0FC393B80042FCE2 /* Japanese */,
+				2849A2DF2193538C00A2BB0B /* Base */,
 			);
 			name = WFRTTY.nib;
 			sourceTree = "<group>";
@@ -3252,8 +3252,8 @@
 		84D649F90FC3929A0042FCE2 /* Splash.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84E86D630CDFA8ED00691926 /* English */,
 				84D64A1B0FC393B80042FCE2 /* Japanese */,
+				2849A2DB2193538B00A2BB0B /* Base */,
 			);
 			name = Splash.nib;
 			sourceTree = "<group>";
@@ -3261,8 +3261,8 @@
 		84D64A000FC392DC0042FCE2 /* NumberOnly.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF809077011006DA88B /* English */,
 				84D64A060FC392E60042FCE2 /* Japanese */,
+				2849A2B72193537E00A2BB0B /* Base */,
 			);
 			name = NumberOnly.nib;
 			sourceTree = "<group>";
@@ -3270,8 +3270,8 @@
 		84D64A020FC392DC0042FCE2 /* RSTExchange.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84072FF909077011006DA88B /* English */,
 				84D64A0E0FC393180042FCE2 /* Japanese */,
+				2849A2B82193537F00A2BB0B /* Base */,
 			);
 			name = RSTExchange.nib;
 			sourceTree = "<group>";
@@ -3279,8 +3279,8 @@
 		84D64A040FC392DC0042FCE2 /* RTTYRoundupMults.nib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84220354096100F1007AFA0B /* English */,
 				84D64A0F0FC393240042FCE2 /* Japanese */,
+				2849A2B92193537F00A2BB0B /* Base */,
 			);
 			name = RTTYRoundupMults.nib;
 			sourceTree = "<group>";
@@ -3300,6 +3300,7 @@
 		84072DC90907675F006DA88B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "";
@@ -3314,6 +3315,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "w7ay.cocoaModem-2.0";
 				PRODUCT_NAME = "cocoaModem 2.0";
 				SDKROOT = macosx;
 				VALID_ARCHS = "x86_64 i386";
@@ -3325,6 +3327,7 @@
 		84072DCA0907675F006DA88B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = /Library/Frameworks;
@@ -3337,6 +3340,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "w7ay.cocoaModem-2.0";
 				PRODUCT_NAME = "cocoaModem 2.0";
 				SDKROOT = macosx;
 				VALID_ARCHS = "x86_64 i386";
@@ -3348,6 +3352,7 @@
 		84072DCB0907675F006DA88B /* Default */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)",
@@ -3366,6 +3371,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "w7ay.cocoaModem-2.0";
 				PRODUCT_NAME = "cocoaModem 2.0";
 				SDKROOT = macosx;
 				VALID_ARCHS = "x86_64 i386";
@@ -3376,19 +3382,101 @@
 		84072DCD0907675F006DA88B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
 		84072DCE0907675F006DA88B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
 		84072DCF0907675F006DA88B /* Default */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx;
 			};
 			name = Default;
 		};
