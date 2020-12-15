@@ -8,6 +8,7 @@
 	#define	_NAMEDFIFO_H_
 
 	#import <Cocoa/Cocoa.h>
+    #import <sys/ioctl.h>
 
 
 	@interface NamedFIFO : NSObject {
